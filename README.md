@@ -102,7 +102,7 @@ ____
 <a href="https://rawgit.com/MAGALLANESJoseManuel/BITSS_ToolsWorkshop/master/Sesiones/Sesion2_R_EstructuraDeDatos.html" target="_blank">*R</a> 
 
 <br>
-<a href="https://rawgit.com/MAGALLANESJoseManuel/BITSS_ToolsWorkshop/master/Sesiones/Sesion2_R_EstructuraDeDatos.html" target="_blank">*Python</a> 
+<a href="https://rawgit.com/MAGALLANESJoseManuel/BITSS_ToolsWorkshop/master/Sesiones/Sesion2_P_EstructuraDeDatos.html" target="_blank">*Python</a> 
 </td>
 </tr>
 
