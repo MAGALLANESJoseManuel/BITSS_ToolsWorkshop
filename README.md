@@ -120,7 +120,9 @@ ____
     <td>
     Limpieza
     </td>
-    <td rowspan="2">Material</td>
+    <td rowspan="2">
+    <a href="https://rawgit.com/MAGALLANESJoseManuel/BITSS_ToolsWorkshop/master/Sesiones/Sesion3_P_PreProcesamento.html" target="_blank">Material</a> 
+    </td>
 </tr>
 </tr>
 <td>
