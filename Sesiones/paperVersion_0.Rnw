@@ -148,6 +148,7 @@ En este trabajo estamos interesados en el impacto de los otros indices en el niv
 explanans=names(dataidx)[c(2:4)]
 corrDem=cor(dataidx[,5],dataidx[,explanans],
     use = "na.or.complete")
+corrDem
 @
 
 

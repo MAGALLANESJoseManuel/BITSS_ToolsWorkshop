@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 MAY 2018 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 JUN 2018 13:22
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -180,25 +180,25 @@ File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 (./paperVersion_0.aux)
 \openout1 = `paperVersion_0.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    ... okay on input line 9.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -262,32 +262,32 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 (./paperVersion_0-concordance.tex)
-LaTeX Font Info:    Try loading font information for T1+aett on input line 25.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 29.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-LaTeX Font Info:    Try loading font information for TS1+aett on input line 66.
+LaTeX Font Info:    Try loading font information for TS1+aett on input line 70.
 
 
 (/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/ts1aett.fd
 File: ts1aett.fd 
 )
-LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 66.
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 70.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `TS1/aett/m/sl' in size <10> not available
-(Font)              Font shape `TS1/cmtt/m/sl' tried instead on input line 66.
+(Font)              Font shape `TS1/cmtt/m/sl' tried instead on input line 70.
 
 <paperVersion_0-demoTableRelPlot.pdf, id=2, 433.62pt x 433.62pt>
 File: paperVersion_0-demoTableRelPlot.pdf Graphic file (type pdf)
 
 <use paperVersion_0-demoTableRelPlot.pdf>
 Package pdftex.def Info: paperVersion_0-demoTableRelPlot.pdf used on input line
- 74.
+ 78.
 (pdftex.def)             Requested size: 276.00105pt x 276.0139pt.
  [1
 
@@ -297,7 +297,7 @@ File: paperVersion_0-ecoTableRelPlot.pdf Graphic file (type pdf)
 
 <use paperVersion_0-ecoTableRelPlot.pdf>
 Package pdftex.def Info: paperVersion_0-ecoTableRelPlot.pdf used on input line 
-114.
+118.
 (pdftex.def)             Requested size: 276.00105pt x 276.0139pt.
  [2 <./paperVersion_0-demoTableRelPlot.pdf>] <paperVersion_0-worldTableRelPlot.
 pdf, id=22, 433.62pt x 433.62pt>
@@ -305,7 +305,7 @@ File: paperVersion_0-worldTableRelPlot.pdf Graphic file (type pdf)
 
 <use paperVersion_0-worldTableRelPlot.pdf>
 Package pdftex.def Info: paperVersion_0-worldTableRelPlot.pdf used on input lin
-e 153.
+e 157.
 (pdftex.def)             Requested size: 276.00105pt x 276.0139pt.
  [3 <./paperVersion_0-ecoTableRelPlot.pdf>] <paperVersion_0-pressTableRelPlot.p
 df, id=32, 433.62pt x 433.62pt>
@@ -313,16 +313,16 @@ File: paperVersion_0-pressTableRelPlot.pdf Graphic file (type pdf)
 
 <use paperVersion_0-pressTableRelPlot.pdf>
 Package pdftex.def Info: paperVersion_0-pressTableRelPlot.pdf used on input lin
-e 193.
+e 197.
 (pdftex.def)             Requested size: 276.00105pt x 276.0139pt.
  [4 <./paperVersion_0-worldTableRelPlot.pdf>]
 LaTeX Font Info:    Font shape `TS1/aett/m/n' in size <10> not available
-(Font)              Font shape `TS1/cmtt/m/n' tried instead on input line 209.
+(Font)              Font shape `TS1/cmtt/m/n' tried instead on input line 213.
  [5 <./paperVersion_0-pressTableRelPlot.pdf>] [6] [7]
 (./paperVersion_0.aux) ) 
 Here is how much of TeX's memory you used:
  2706 strings out of 493089
- 40487 string characters out of 6134842
+ 40495 string characters out of 6134842
  92350 words of memory out of 5000000
  6149 multiletter control sequences out of 15000+600000
  8485 words of font info for 25 fonts, out of 8000000 for 9000
@@ -336,7 +336,7 @@ onts/cm/cmsltt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-s
 uper/sfst1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-sup
 er/sftt1000.pfb>
-Output written on paperVersion_0.pdf (7 pages, 103693 bytes).
+Output written on paperVersion_0.pdf (7 pages, 103866 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

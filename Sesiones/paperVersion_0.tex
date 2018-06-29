@@ -1,5 +1,9 @@
 \documentclass{article}
 
+% plain R
+% chunk and its name
+% fig
+
 
 \usepackage{Sweave}
 \begin{document}
@@ -219,7 +223,12 @@ En este trabajo estamos interesados en el impacto de los otros indices en el niv
 > explanans=names(dataidx)[c(2:4)]
 > corrDem=cor(dataidx[,5],dataidx[,explanans],
 +     use = "na.or.complete")
+> corrDem
 \end{Sinput}
+\begin{Soutput}
+     WorldFreedom EconomicFreedom PressFreedom
+[1,]    0.8962136       0.5865487    0.7710711
+\end{Soutput}
 \end{Schunk}
 
 
